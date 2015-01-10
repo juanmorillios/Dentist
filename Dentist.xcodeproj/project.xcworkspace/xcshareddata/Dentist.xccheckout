@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>31222453-E5A2-44F1-BD62-C546D7108820</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Dentist</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F589F489A2ACA649AE83B0E6EC827B96027033F3</key>
+		<string>https://github.com/juanmorillios/Dentist.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Dentist.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F589F489A2ACA649AE83B0E6EC827B96027033F3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/juanmorillios/Dentist.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F589F489A2ACA649AE83B0E6EC827B96027033F3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F589F489A2ACA649AE83B0E6EC827B96027033F3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dentist</string>
+		</dict>
+	</array>
+</dict>
+</plist>

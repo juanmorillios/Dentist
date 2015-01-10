@@ -16,6 +16,12 @@
 		B990C1691A61B4710037EA6F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B990C1681A61B4710037EA6F /* Images.xcassets */; };
 		B990C16C1A61B4710037EA6F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B990C16A1A61B4710037EA6F /* LaunchScreen.xib */; };
 		B990C1781A61B4710037EA6F /* DentistTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B990C1771A61B4710037EA6F /* DentistTests.m */; };
+		B990C1821A61B7EC0037EA6F /* PeriodonciaDentalium.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B990C1811A61B7EC0037EA6F /* PeriodonciaDentalium.jpg */; };
+		B990C1841A61B81B0037EA6F /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = B990C1831A61B81B0037EA6F /* logo.png */; };
+		B990C1861A61B86E0037EA6F /* cache_7152542.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B990C1851A61B86E0037EA6F /* cache_7152542.jpg */; };
+		B990C1881A61B87C0037EA6F /* effects-of-teeth-whitening-on-your-health.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B990C1871A61B87C0037EA6F /* effects-of-teeth-whitening-on-your-health.jpeg */; };
+		B990C18A1A61B8AD0037EA6F /* esteticadental.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B990C1891A61B8AD0037EA6F /* esteticadental.jpg */; };
+		B990C18C1A61B8BC0037EA6F /* Odontología Conservadora y Familiar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B990C18B1A61B8BC0037EA6F /* Odontología Conservadora y Familiar.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +52,12 @@
 		B990C1711A61B4710037EA6F /* DentistTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DentistTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B990C1761A61B4710037EA6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B990C1771A61B4710037EA6F /* DentistTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DentistTests.m; sourceTree = "<group>"; };
+		B990C1811A61B7EC0037EA6F /* PeriodonciaDentalium.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PeriodonciaDentalium.jpg; sourceTree = "<group>"; };
+		B990C1831A61B81B0037EA6F /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		B990C1851A61B86E0037EA6F /* cache_7152542.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cache_7152542.jpg; sourceTree = "<group>"; };
+		B990C1871A61B87C0037EA6F /* effects-of-teeth-whitening-on-your-health.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "effects-of-teeth-whitening-on-your-health.jpeg"; sourceTree = "<group>"; };
+		B990C1891A61B8AD0037EA6F /* esteticadental.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = esteticadental.jpg; sourceTree = "<group>"; };
+		B990C18B1A61B8BC0037EA6F /* Odontología Conservadora y Familiar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Odontología Conservadora y Familiar.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +109,12 @@
 				B990C1631A61B4710037EA6F /* ModelController.m */,
 				B990C1651A61B4710037EA6F /* Main.storyboard */,
 				B990C1681A61B4710037EA6F /* Images.xcassets */,
+				B990C18B1A61B8BC0037EA6F /* Odontología Conservadora y Familiar.jpg */,
+				B990C1891A61B8AD0037EA6F /* esteticadental.jpg */,
+				B990C1871A61B87C0037EA6F /* effects-of-teeth-whitening-on-your-health.jpeg */,
+				B990C1851A61B86E0037EA6F /* cache_7152542.jpg */,
+				B990C1831A61B81B0037EA6F /* logo.png */,
+				B990C1811A61B7EC0037EA6F /* PeriodonciaDentalium.jpg */,
 				B990C16A1A61B4710037EA6F /* LaunchScreen.xib */,
 				B990C1551A61B4710037EA6F /* Supporting Files */,
 			);
@@ -210,9 +228,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B990C1881A61B87C0037EA6F /* effects-of-teeth-whitening-on-your-health.jpeg in Resources */,
 				B990C1671A61B4710037EA6F /* Main.storyboard in Resources */,
+				B990C18C1A61B8BC0037EA6F /* Odontología Conservadora y Familiar.jpg in Resources */,
+				B990C1861A61B86E0037EA6F /* cache_7152542.jpg in Resources */,
+				B990C18A1A61B8AD0037EA6F /* esteticadental.jpg in Resources */,
+				B990C1841A61B81B0037EA6F /* logo.png in Resources */,
 				B990C16C1A61B4710037EA6F /* LaunchScreen.xib in Resources */,
 				B990C1691A61B4710037EA6F /* Images.xcassets in Resources */,
+				B990C1821A61B7EC0037EA6F /* PeriodonciaDentalium.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
